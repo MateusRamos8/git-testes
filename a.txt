@@ -3,3 +3,4 @@ string sgitnrsa
 MODIFICAÇÃO NO ARQUIVO PELO GIT HUB GUI
 
 MUDANÇA LOCAL
+
